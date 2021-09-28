@@ -26,19 +26,16 @@ Three Important Classes I've taken in order of least recent to most
 3. Programming Languages
  
 - [ ] website done?
-- [x] website done. 
+- [x] website done.  
+  
+    
+      
+        
+          
+           
 
+            
 
-
-
-
-
-
-
-
-
-
-
-
-
+             
+             
 [This goes to the heading](#about-me)  
