@@ -1,19 +1,30 @@
-[This goes to the heading](#this-is-a-heading)  
-# This Is a Heading  
-*This is italic text*  
-I said  
->This is a quote  
+# About Me  
+*Sahil Bhalla*  
+I am a physics, cs, and math student at UCSD.
 
-I used `git commit` to commit this file  
-I used [this](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings) to build this site  
-[This Goes to a screenshot](screenshots/1.1.png)  
-This is that screenshot:  
+>Sahil Bhalla  
+
+I used commands in the terminal to make this webpage such as
+`git commit` 
+
+I used [this](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings) to build this site
+
+
+[An example of these commands being used](screenshots/1.1.png)  
+
+If that link didn't work here's the image directly:  
 ![image](screenshots/1.1.png)  
-- A
-- Unordered
-- List
-1. An
-2. Ordered
-3. List
-- [ ] uncomplete task
-- [x] complete task 
+
+Three programming languages I know in no particular order
+- C++
+- Python
+- Java
+
+Three Important Classes I've taken in order of least recent to most
+1. Advanced Data Structures
+2. Algorithms
+3. Programming Languages
+
+[This goes to the heading](#About-Me)  
+- [ ] website done?
+- [x] website done. 
