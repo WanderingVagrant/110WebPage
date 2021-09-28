@@ -24,7 +24,21 @@ Three Important Classes I've taken in order of least recent to most
 1. Advanced Data Structures
 2. Algorithms
 3. Programming Languages
-
-[This goes to the heading](#About-Me)  
+ 
 - [ ] website done?
 - [x] website done. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[This goes to the heading](#About-Me)  
