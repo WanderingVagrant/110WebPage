@@ -41,4 +41,4 @@ Three Important Classes I've taken in order of least recent to most
 
 
 
-[This goes to the heading](#About-Me)  
+[This goes to the heading](#about-me)  
